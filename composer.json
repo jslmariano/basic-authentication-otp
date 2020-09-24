@@ -1,5 +1,5 @@
 {
-    "name": "jslmariano/laravel-authentication-otp",
+    "name": "jslmariano/basic-authentication-otp",
     "description": "Laravel OTP code features with sms via nexmo",
     "keywords": [
         "laravel",
