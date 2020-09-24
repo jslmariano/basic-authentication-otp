@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": ">=7.0",
-        "jslmariano/laravel-authentication-log": "^1.0",
+        "jslmariano/basic-authentication-log": "^1.0",
         "illuminate/auth": "~5.5.0|~5.6.0|~5.7.0|~5.8.0|^6.0|^7.0",
         "illuminate/bus": "~5.5.0|~5.6.0|~5.7.0|~5.8.0|^6.0|^7.0",
         "illuminate/console": "~5.5.0|~5.6.0|~5.7.0|~5.8.0|^6.0|^7.0",
