@@ -1,7 +1,7 @@
 # Jslmariano Authentication OTP
 
-[![Total Downloads](https://poser.pugx.org/jslmariano/laravel-authentication-log/downloads?format=flat)](https://packagist.org/packages/jslmariano/laravel-authentication-log)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/jslmariano/laravel-authentication-log/master/LICENSE)
+[![Total Downloads](https://poser.pugx.org/jslmariano/basic-authentication-log/downloads?format=flat)](https://packagist.org/packages/jslmariano/basic-authentication-log)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/jslmariano/basic-authentication-log/master/LICENSE)
 
 ## Installation
 
@@ -9,7 +9,7 @@
 
 You may use Composer to install Laravel Authentication Log into your Laravel project:
 
-    composer require jslmariano/laravel-authentication-otp
+    composer require jslmariano/basic-authentication-otp
 
 ### Configuration
 
